@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+}
+
+.imgContainer{
+    flex: 1;
+    position: relative;
+    height: 500px;
+}
+
+.textContainer{
+    flex: 1;
+}
